@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret" : "mern",
+  "mongoUrl": "mongodb+srv://LevonReact:LevonReact123@cluster0.ondad.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
